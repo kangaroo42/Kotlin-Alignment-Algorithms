@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="Alignment-Algorithms:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Alignment_Algorithms_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Alignment-Algorithms.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/resources/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="Alignment-Algorithms" />
+      </element>
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+    </root>
+  </artifact>
+</component>
